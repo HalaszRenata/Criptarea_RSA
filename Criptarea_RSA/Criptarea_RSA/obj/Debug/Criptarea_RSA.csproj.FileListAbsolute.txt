@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\obj\Debug\Criptarea_RSA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\obj\Debug\Criptarea_RSA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\bin\Debug\Criptarea_RSA.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\bin\Debug\Criptarea_RSA.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\bin\Debug\Criptarea_RSA.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\obj\Debug\Criptarea_RSA.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Criptarea_RSA\Criptarea_RSA\obj\Debug\Criptarea_RSA.pdb
